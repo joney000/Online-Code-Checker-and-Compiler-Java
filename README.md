@@ -170,7 +170,7 @@ MIT
    [JUnit]: http://junit.org/junit4/
    [Hibernate ORM]: http://hibernate.org/orm/
    [java8]: http://www.oracle.com/technetwork/java/javase/overview/java8-2100321.html
-   [dill]: <https://github.com/Online-Code-Checker-Java>
+   [dill]: <https://github.com/joney000/Online-Code-Checker-and-Compiler-in-Java-CodeOj-codeoj.com->
 
    [john gruber]: <http://daringfireball.net>
 
