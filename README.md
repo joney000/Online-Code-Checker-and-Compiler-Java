@@ -145,7 +145,7 @@ We wish to complete following to-dos ASAP by moving **[Spring Framework 4.2.6](h
  - Increase Scalability for handling more concurrent Requests/Second
  - Write Unit Tests
  - Add Code Comments
- - Add Night Mode
+ - Add Efficient plagiarism detector
  - Make Judge System Distributed
  - Introducing Parallelism in System for Increase Reliability.
  - Add support for more programming languages
