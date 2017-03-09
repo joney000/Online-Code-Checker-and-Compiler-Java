@@ -5,7 +5,7 @@ Online Code Checker and Compiler system ( formally CodeOj / Code Online Judge ) 
 It develop "Fast & Furious" attitude to the coders to be Accurate and Efficient in writing code. It will enhance the speed of hiring procedure. Recruiters can assign hiring coding task and schedule the event as per their suitability. Moreover the project can be used for educational purpose for students around the world learning competitive programming.
 
 ###  Quality Attributes of the Software : 
-  - Salable and high performance : Concurrent requests optimization.
+  - Scalable and high performance : Concurrent requests optimization.
   - Power of Java8 with Database Independence Software System.
   - Study of component based reliability modeling on code checker System with the study of code checker's component use factor / component use ratio.
   - Extensible, Simple and Easy to use [web / desktop] Interface : Easily configurable at local or web.
