@@ -2,11 +2,11 @@
 
 Online Code Checker and Compiler system ( formally CodeOj / Code Online Judge ) is java based  automated testing system to check the Algorithmic skills of the user providing a platform to compete with large no of software developers.
 
-It develop "Fast & Furious" attitude to the coders to be Accurate and Efficient in writing code. It will enhance the speed of hiring procedure. Recruiters can assign hiring coding task and schedule the event as per their suitability. Moreover the project can be used for educational purpose for students around the world learning competitive programming.
+It develop "Fast & Furious" attitude to the coders to be Accurate and Efficient in coding. It will enhance the speed of hiring procedure. Recruiters can assign hiring coding task and schedule the event as per their suitability. Moreover the project can be used for educational purpose for students around the world learning competitive programming.
 
 ###  Quality Attributes of the Software : 
   - Scalable and high performance : Concurrent requests optimization.
-  - Power of Java8 with Database Independence Software System.
+  - Java8 with Database Independence Software System.
   - Study of component based reliability modeling on code checker System with the study of code checker's component use factor / component use ratio.
   - Extensible, Simple and Easy to use [web / desktop] Interface : Easily configurable at local or web.
   - Fully Automated Event/Creation, Judging & result preparation, result statics.
@@ -23,15 +23,15 @@ CodeOj allows you to use whichever database you want to use or at any stage of d
 
 CodeOj uses a number of open source tools and technology to work properly:
 
-* [Java8] - High productivity along with security .also to use the magic of Byte code. 
+* [Java8] - Open JDK.
 * [Ace Editor] - Awesome web-based text editor
-* [Hibernate ORM] - A Java based ORM providing several cool features of data persistence like object caching, mapping etc.
-* [Twitter Bootstrap] - great UI boilerplate for modern responsive web apps
+* [Hibernate ORM] - A Java based ORM providing several features of data persistence like object caching, mapping etc.
+* [Twitter Bootstrap] - UI boilerplate for modern responsive web apps
 * [JUnit] - Unit tests in Java
 * [chroot "jail"] - Sand-boxing / virtualization of computing node 
 * [Database] - Initially MySQL but you are free to use any open source DB.
 * [Python] - for running core checker script.
-* [jQuery] - duh !! :D
+* [jQuery] - UI JS
 
 And of course CodeOj itself is open source with a [public repository][dill]
  on GitHub.
@@ -84,7 +84,7 @@ also set the database configurations in web/judge.py file
 
 #### D. Supported Languages:
 
-CodeOj is currently extended with the following languages ,so you have to install their respective compilers in your run environment. 
+CodeOj is currently extended with the following languages, so you have to install their respective compilers in your run environment. 
 * C
 * C++              
 * Java
@@ -144,13 +144,12 @@ We wish to complete following to-dos ASAP by moving **[Spring Framework 4.2.6](h
 
  - Increase Scalability for handling more concurrent Requests/Second
  - Write Unit Tests
- - Add Code Comments
+ - Improve code quality
  - Add Efficient plagiarism detector
- - Make Judge System Distributed
  - Introducing Parallelism in System for Increase Reliability.
  - Add support for more programming languages
  
-For further queries write me to jaswantsinghyadav007@gmail.com or let_me_start@yahoo.com .
+For further queries write me to developer.jaswant@gmail.com .
 
 License
 ----
@@ -158,7 +157,7 @@ License
 MIT
 
 
-**Free Software, Hell Yeah!**
+**Free Software under MIT**
 
 
 
